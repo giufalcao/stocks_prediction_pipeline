@@ -1,1 +1,1 @@
-# stocks_prediction_pipeline
+## A real-time ML system that predicts short-term crypto prices
